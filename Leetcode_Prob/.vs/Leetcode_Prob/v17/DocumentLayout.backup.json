@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Roman to Integer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|solutionrelative:Leetcode_Prob\\Roman to Integer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\PlusOne1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|solutionrelative:Leetcode_Prob\\PlusOne1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|solutionrelative:Leetcode_Prob\\Source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Plus One.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|solutionrelative:Leetcode_Prob\\Plus One.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Take Gifts From the Richest Pile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|solutionrelative:Leetcode_Prob\\Take Gifts From the Richest Pile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Plus One2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|solutionrelative:Leetcode_Prob\\Plus One2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Roman to Integer.cpp",
-              "DocumentMoniker": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Roman to Integer.cpp",
-              "RelativeDocumentMoniker": "Leetcode_Prob\\Roman to Integer.cpp",
-              "ToolTip": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Roman to Integer.cpp*",
-              "RelativeToolTip": "Leetcode_Prob\\Roman to Integer.cpp*",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAwFAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-19T13:22:27.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Plus One.cpp",
-              "DocumentMoniker": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Plus One.cpp",
-              "RelativeDocumentMoniker": "Leetcode_Prob\\Plus One.cpp",
-              "ToolTip": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Plus One.cpp*",
-              "RelativeToolTip": "Leetcode_Prob\\Plus One.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Plus One2.cpp",
+              "DocumentMoniker": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Plus One2.cpp",
+              "RelativeDocumentMoniker": "Leetcode_Prob\\Plus One2.cpp",
+              "ToolTip": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Plus One2.cpp",
+              "RelativeToolTip": "Leetcode_Prob\\Plus One2.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-19T13:21:49.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Take Gifts From the Richest Pile.cpp",
-              "DocumentMoniker": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Take Gifts From the Richest Pile.cpp",
-              "RelativeDocumentMoniker": "Leetcode_Prob\\Take Gifts From the Richest Pile.cpp",
-              "ToolTip": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Take Gifts From the Richest Pile.cpp",
-              "RelativeToolTip": "Leetcode_Prob\\Take Gifts From the Richest Pile.cpp",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-19T13:19:36.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source1.cpp",
-              "DocumentMoniker": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Source1.cpp",
-              "RelativeDocumentMoniker": "Leetcode_Prob\\Source1.cpp",
-              "ToolTip": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Source1.cpp",
-              "RelativeToolTip": "Leetcode_Prob\\Source1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PlusOne1.cpp",
+              "DocumentMoniker": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\PlusOne1.cpp",
+              "RelativeDocumentMoniker": "Leetcode_Prob\\PlusOne1.cpp",
+              "ToolTip": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\PlusOne1.cpp",
+              "RelativeToolTip": "Leetcode_Prob\\PlusOne1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-14T12:00:50.573Z",
               "EditorCaption": ""
