@@ -18,7 +18,34 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source1.cpp">
+    <ClCompile Include="PlusOne1.cpp">
+      <Filter>Исходные файлы\Easy_Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="Take Gifts From the Richest Pile.cpp">
+      <Filter>Исходные файлы\Easy_Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="Two Sum.cpp">
+      <Filter>Исходные файлы\Easy_Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="Roman to Integer.cpp">
+      <Filter>Исходные файлы\Easy_Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="Remove Element.cpp">
+      <Filter>Исходные файлы\Easy_Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="Plus One2.cpp">
+      <Filter>Исходные файлы\Easy_Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="Palindrome Number.cpp">
+      <Filter>Исходные файлы\Easy_Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="Longest Common Prefix.cpp">
+      <Filter>Исходные файлы\Easy_Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="Length of Last Word.cpp">
+      <Filter>Исходные файлы\Easy_Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="Find the Index of the First Occurrence in a String.cpp">
       <Filter>Исходные файлы\Easy_Problems</Filter>
     </ClCompile>
   </ItemGroup>
