@@ -1,5 +1,2 @@
 ﻿  Plus One2.cpp
-  PlusOne1.cpp
-D:\Github\Leetcode_Problems\Leetcode_Prob\Leetcode_Prob\PlusOne1.cpp(24,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  Создание кода...
   Leetcode_Prob.vcxproj -> D:\Github\Leetcode_Problems\Leetcode_Prob\x64\Debug\Leetcode_Prob.exe

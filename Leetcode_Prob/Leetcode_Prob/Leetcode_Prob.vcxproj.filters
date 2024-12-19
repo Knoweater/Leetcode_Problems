@@ -33,7 +33,7 @@
     <ClCompile Include="Remove Element.cpp">
       <Filter>Исходные файлы\Easy_Problems</Filter>
     </ClCompile>
-    <ClCompile Include="Plus One2.cpp">
+    <ClCompile Include="Plus One Working.cpp">
       <Filter>Исходные файлы\Easy_Problems</Filter>
     </ClCompile>
     <ClCompile Include="Palindrome Number.cpp">

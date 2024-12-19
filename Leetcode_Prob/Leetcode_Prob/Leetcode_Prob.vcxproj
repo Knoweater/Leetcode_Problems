@@ -131,7 +131,7 @@
     <ClCompile Include="Length of Last Word.cpp" />
     <ClCompile Include="Longest Common Prefix.cpp" />
     <ClCompile Include="Palindrome Number.cpp" />
-    <ClCompile Include="Plus One2.cpp" />
+    <ClCompile Include="Plus One Working.cpp" />
     <ClCompile Include="Remove Element.cpp" />
     <ClCompile Include="Roman to Integer.cpp" />
     <ClCompile Include="PlusOne1.cpp" />

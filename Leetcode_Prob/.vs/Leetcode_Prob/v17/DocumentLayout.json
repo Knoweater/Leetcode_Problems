@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\PlusOne1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|solutionrelative:Leetcode_Prob\\PlusOne1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Plus One2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|solutionrelative:Leetcode_Prob\\Plus One2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Plus One Working.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|solutionrelative:Leetcode_Prob\\Plus One Working.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Plus One2.cpp",
-              "DocumentMoniker": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Plus One2.cpp",
-              "RelativeDocumentMoniker": "Leetcode_Prob\\Plus One2.cpp",
-              "ToolTip": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Plus One2.cpp",
-              "RelativeToolTip": "Leetcode_Prob\\Plus One2.cpp",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-19T13:21:49.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlusOne1.cpp",
-              "DocumentMoniker": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\PlusOne1.cpp",
-              "RelativeDocumentMoniker": "Leetcode_Prob\\PlusOne1.cpp",
-              "ToolTip": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\PlusOne1.cpp",
-              "RelativeToolTip": "Leetcode_Prob\\PlusOne1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "Plus One Working.cpp",
+              "DocumentMoniker": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Plus One Working.cpp",
+              "RelativeDocumentMoniker": "Leetcode_Prob\\Plus One Working.cpp",
+              "ToolTip": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Plus One Working.cpp",
+              "RelativeToolTip": "Leetcode_Prob\\Plus One Working.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-14T12:00:50.573Z",
+              "WhenOpened": "2024-12-19T15:18:30.58Z",
               "EditorCaption": ""
             }
           ]
