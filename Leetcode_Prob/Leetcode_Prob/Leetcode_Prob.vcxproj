@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Add Binary.cpp" />
     <ClCompile Include="Find the Index of the First Occurrence in a String.cpp" />
     <ClCompile Include="Length of Last Word.cpp" />
     <ClCompile Include="Longest Common Prefix.cpp" />

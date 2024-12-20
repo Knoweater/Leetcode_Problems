@@ -48,5 +48,8 @@
     <ClCompile Include="Find the Index of the First Occurrence in a String.cpp">
       <Filter>Исходные файлы\Easy_Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Add Binary.cpp">
+      <Filter>Исходные файлы\Easy_Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
