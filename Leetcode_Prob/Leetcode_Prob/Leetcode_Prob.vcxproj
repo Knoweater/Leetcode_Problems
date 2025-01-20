@@ -136,8 +136,11 @@
     <ClCompile Include="Remove Element.cpp" />
     <ClCompile Include="Roman to Integer.cpp" />
     <ClCompile Include="PlusOne1.cpp" />
+    <ClCompile Include="Climbing Stairs.cpp" />
+    <ClCompile Include="Sqrt%28x%29.cpp" />
     <ClCompile Include="Take Gifts From the Richest Pile.cpp" />
     <ClCompile Include="Two Sum.cpp" />
+    <ClCompile Include="Valid Palindrome.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

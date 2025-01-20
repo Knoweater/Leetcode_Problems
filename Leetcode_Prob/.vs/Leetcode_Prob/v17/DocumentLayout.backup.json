@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Plus One Working.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|solutionrelative:Leetcode_Prob\\Plus One Working.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Valid Palindrome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|solutionrelative:Leetcode_Prob\\Valid Palindrome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Sqrt(x).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|solutionrelative:Leetcode_Prob\\Sqrt(x).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Climbing Stairs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|solutionrelative:Leetcode_Prob\\Climbing Stairs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Add Binary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D53DCA4-2820-4FBE-BAAB-84D60E32719E}|Leetcode_Prob\\Leetcode_Prob.vcxproj|solutionrelative:Leetcode_Prob\\Add Binary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Plus One Working.cpp",
-              "DocumentMoniker": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Plus One Working.cpp",
-              "RelativeDocumentMoniker": "Leetcode_Prob\\Plus One Working.cpp",
-              "ToolTip": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Plus One Working.cpp",
-              "RelativeToolTip": "Leetcode_Prob\\Plus One Working.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABVAAAAAAAAAA==",
+              "Title": "Valid Palindrome.cpp",
+              "DocumentMoniker": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Valid Palindrome.cpp",
+              "RelativeDocumentMoniker": "Leetcode_Prob\\Valid Palindrome.cpp",
+              "ToolTip": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Valid Palindrome.cpp*",
+              "RelativeToolTip": "Leetcode_Prob\\Valid Palindrome.cpp*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-19T15:18:30.58Z",
+              "WhenOpened": "2025-01-17T15:27:15.037Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Climbing Stairs.cpp",
+              "DocumentMoniker": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Climbing Stairs.cpp",
+              "RelativeDocumentMoniker": "Leetcode_Prob\\Climbing Stairs.cpp",
+              "ToolTip": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Climbing Stairs.cpp",
+              "RelativeToolTip": "Leetcode_Prob\\Climbing Stairs.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T13:12:50.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sqrt(x).cpp",
+              "DocumentMoniker": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Sqrt(x).cpp",
+              "RelativeDocumentMoniker": "Leetcode_Prob\\Sqrt(x).cpp",
+              "ToolTip": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Sqrt(x).cpp",
+              "RelativeToolTip": "Leetcode_Prob\\Sqrt(x).cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T15:24:21.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add Binary.cpp",
+              "DocumentMoniker": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Add Binary.cpp",
+              "RelativeDocumentMoniker": "Leetcode_Prob\\Add Binary.cpp",
+              "ToolTip": "D:\\Github\\Leetcode_Problems\\Leetcode_Prob\\Leetcode_Prob\\Add Binary.cpp",
+              "RelativeToolTip": "Leetcode_Prob\\Add Binary.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswEgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T10:34:08.806Z"
             }
           ]
         }

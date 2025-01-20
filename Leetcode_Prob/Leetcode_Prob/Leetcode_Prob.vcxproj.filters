@@ -51,5 +51,14 @@
     <ClCompile Include="Add Binary.cpp">
       <Filter>Исходные файлы\Easy_Problems</Filter>
     </ClCompile>
+    <ClCompile Include="Sqrt%28x%29.cpp">
+      <Filter>Исходные файлы\Easy_Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="Climbing Stairs.cpp">
+      <Filter>Исходные файлы\Easy_Problems</Filter>
+    </ClCompile>
+    <ClCompile Include="Valid Palindrome.cpp">
+      <Filter>Исходные файлы\Easy_Problems</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
